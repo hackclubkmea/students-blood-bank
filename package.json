@@ -1,0 +1,32 @@
+{
+  "name": "students-blood-bank",
+  "version": "1.0.0",
+  "description": "blood bank management database",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version",
+    "format": "prettier --write . ./*.{ts,js,json}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abjs/students-blood-bank.git"
+  },
+  "keywords": [
+    "blood",
+    "bank",
+    "kerala"
+  ],
+  "author": "Abin Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abjs/students-blood-bank/issues"
+  },
+  "homepage": "https://github.com/abjs/students-blood-bank#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^13.2.1",
+    "@commitlint/config-conventional": "^13.2.0",
+    "husky": "^7.0.2",
+    "prettier": "^2.4.1",
+    "standard-version": "^9.3.1"
+  }
+}
