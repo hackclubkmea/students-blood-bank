@@ -26,6 +26,15 @@
       "district": "Ernakulam",
       "state": "Kerala",
       "country": "India"
+    },
+    {
+      "name": "Abdhul Manaf",
+      "phone" : "8078378785",
+      "blood_group": "B+ve",
+      "address": "Kollankudy (H) Pattimattom pattimattom P.O",
+      "district": "Ernakulam",
+      "state": "Kerala",
+      "country": "India"
     }
   ]
 }
